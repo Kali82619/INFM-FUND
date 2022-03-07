@@ -1,2 +1,2 @@
-# INFM-FUND
-Informatics Fundamentals Project
+# Hello-World
+Hello-World guide project for Informatics Fundamentals.
